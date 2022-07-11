@@ -1,0 +1,37 @@
+<body>
+    <div class="m-container">
+        <div class="header">
+            <h1>R</h1>
+            <span class="nav">Home</span>
+            <span class="nav">Project</span>
+            <span class="nav">Pages</span>
+            <span class="nav">Element</span>
+            <span class="nav">Blogs</span>
+            <span class="nav">Shop</span>
+            <span class="nav">Contact</span>
+            <span class="nav"><button><img src="./" alt=""></button></span>
+        </div>
+        <div class="body-container">
+            <div class="left-top"></div>
+            <div class="left">
+                <button> <span class="text">70% off</span>
+                     for first three month</button>
+                <h2>
+                    Digital Agency <br>
+                    with Excellence <br>
+                    Services.
+                </h2>
+                <br><br>
+                <span class="headline">The 3 golden rules professional graphic designer don't</span>
+        </div>
+        <div class="footer">
+            <a href="#" class="btn1">[Vaibhav Varshney]</a>
+			<a href="#" class="btn2">[201500767]</a>
+      <a href="#" class="btn3">GLA University, Mathura</a>
+      <a href="#" class="btn4">11/07/2022</a>
+        </div>
+        </div>
+        
+    </div>
+
+</body>
